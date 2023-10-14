@@ -1,0 +1,13 @@
+.intro-bg-color {
+  background-image: linear-gradient(to right, #392d69, #b57bee);
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+.projects-bg-color {
+  background-image: linear-gradient(to right, #f7ba2c, #ea5459);
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}

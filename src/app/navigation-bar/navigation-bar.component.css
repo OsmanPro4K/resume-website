@@ -1,0 +1,21 @@
+.nav {
+  background-color: #212529;
+  border: none;
+}
+.nav-tabs a {
+  color: white;
+}
+.intro .active {
+  font-weight: bold;
+  background-image: linear-gradient(to right, #9567CC, #A26FDA);
+  border-image: linear-gradient(to right, #9567CC, #A26FDA);
+  color: white;
+}
+
+.projects .active {
+  font-weight: bold;
+  background-image: linear-gradient(to right, #EC6452, #EB5C55);
+  border-image: linear-gradient(to right, #EC6452, #EB5C55);
+  color: white;
+}
+
